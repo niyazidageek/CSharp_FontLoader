@@ -8,11 +8,11 @@
 
  You can see list of errors/exceptions while trying to use native fonts provided by **System.Drawing.Font**:
 
- + ![Screenshot](./img/error.png)
+ ![Screenshot](./img/error.png)
 
- + ![Screenshot](./img/exception.png)
+ ![Screenshot](./img/exception.png)
 
 
- # You can get over these problems by just adding any **.ttf** file to your **System.Drawing.Font** library as shown below:
+ # How to get started?
 
- + ![Screenshot](./img/usage.png)
+ ![Screenshot](./img/usage.png)
